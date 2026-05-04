@@ -32,3 +32,7 @@
 - Search outlook mail folder, to allocate certain email whose subject has specific keyword, for muitiple months
 - Download attached csv files
 - Combine all downloaded csv files, and select wanted columns
+
+### 04. ACH Statement Transformation
+- big ACH report with cheque nubmer hidden in descrption fileds with long string
+- Use regex to find cheque number for each line transactions

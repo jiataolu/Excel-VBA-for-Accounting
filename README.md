@@ -1,6 +1,6 @@
 ## Projects
 
-### 11. Porject 11 - Internal Purchasing AR AP Reconcilation & AP Clearing Vendor
+### 11. Internal Purchasing AR AP Reconcilation & AP Clearing Vendor
 - find cleared AR invoice in SAP
 - Find AP information in AR invoice
 - Group AP invoice by subledger

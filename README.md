@@ -27,3 +27,8 @@
 - Generate pivot table by transfer pair - receiving bank account and sending bank account
 - Find coding for each transfer pair
 - Generate JE template to upload in SAP.
+
+### 05. Email Attachment File Download and Combination
+- Search outlook mail folder, to allocate certain email whose subject has specific keyword, for muitiple months
+- Download attached csv files
+- Combine all downloaded csv files, and select wanted columns

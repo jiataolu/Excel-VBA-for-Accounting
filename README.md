@@ -20,3 +20,10 @@
 - By regex, to find coding information through keyword
 - Generate JE template to upload in SAP
 - Generate requiry email for all open items missing coding info.
+
+### 04. Monthly ZBA Transaction Posting
+- In 50 bank accounts, find all relevant ZBA trasnaction in monthly bank statement
+- Find and delete all duplicate lines in bank statement
+- Generate pivot table by transfer pair - receiving bank account and sending bank account
+- Find coding for each transfer pair
+- Generate JE template to upload in SAP.

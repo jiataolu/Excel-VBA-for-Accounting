@@ -1,9 +1,15 @@
 ## Projects
 
-### 11. Internal Purchasing AR AP Reconcilation & AP Clearing Vendor
+### 01. Internal Purchasing AR AP Reconcilation & AP Clearing Vendor
 - find cleared AR invoice in SAP
 - Find AP information in AR invoice
 - Group AP invoice by subledger
 - reconcile AP payment with bank statement
 - genearate clean AP list for vendor clearing in SAP
 
+### 02. Mapping File Reconciliation & ERP Balance Reconciliation
+- Reconile bank account vs bank Gl from different ERP system
+- Reconcile bank account vs bank GL between ERP and Treasury Record
+- Generate updated conciliated bank mapping file after reconcilation
+- Add new account into conciliated mapping file 
+- Record any deleted bank account information.

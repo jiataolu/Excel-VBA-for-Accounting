@@ -13,3 +13,10 @@
 - Generate updated conciliated bank mapping file after reconcilation
 - Add new account into conciliated mapping file 
 - Record any deleted bank account information.
+
+### 03. Daily EFT Transactions Reconciliation and Posting
+- Daily EFT trasnaction reconcilation between GL and Bank
+- For any open items, find keyword in bank statment's description
+- By regex, to find coding information through keyword
+- Generate JE template to upload in SAP
+- Generate requiry email for all open items missing coding info.

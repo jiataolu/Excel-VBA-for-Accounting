@@ -33,6 +33,13 @@
 - Download attached csv files
 - Combine all downloaded csv files, and select wanted columns
 
-### 04. ACH Statement Transformation
+### 06. ACH Statement Transformation
 - big ACH report with cheque nubmer hidden in descrption fileds with long string
 - Use regex to find cheque number for each line transactions
+
+### 07. Matching GL ACH Bank
+- Reconcile 3 reports: GL, ACH, Bank. GL and ACH each has over 20K lines
+- Generate 3 Pivot table: GLvs ACH, GL vs Bank, Bank vs ACH
+- Match in pivot table lever for  GLvs ACH, GL vs Bank, Bank vs ACH
+- Match line by by for  GLvs ACH, GL vs Bank, Bank vs ACH
+- Assign unique matching number to each matching.
